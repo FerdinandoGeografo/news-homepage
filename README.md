@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/FerdinandoGeografo/news-homepage](https://github.com/FerdinandoGeografo/news-homepage)
 - Live Site URL: [https://news-homepage-fg.netlify.app/](https://news-homepage-fg.netlify.app/)
 
 ## My process
@@ -48,5 +48,6 @@ I practiced a lot on using the right tags to improve the semantics of the page c
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- LinkedIn - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@FerdinandoGeografo](https://www.frontendmentor.io/profile/FerdinandoGeografo)
+- LinkedIn - [@FerdinandoGeografo](https://www.linkedin.com/in/ferdinandogeografo/)
+- GitHub - [@FerdinandoGeografo](https://github.com/FerdinandoGeografo/)
