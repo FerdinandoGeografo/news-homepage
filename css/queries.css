@@ -2,11 +2,11 @@
 @media (max-width: 64em) {
   html {
     font-size: 50%;
-    padding: 0 2.4rem;
   }
 
   body {
     max-width: 120rem;
+    padding: 0 2.4rem;
   }
 
   .main-img-box {
